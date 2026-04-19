@@ -1,2 +1,2 @@
-# GIS-Remote-Sensing
-A collection of my GIS and remote sensing work in python and Google Earth Engine
+# GIS Work Examples
+A collection of my GIS class and personal work in python and Google Earth Engine
